@@ -3,7 +3,7 @@ const app = express()
 
 
 app.get("/", (req,res) => {
-    res.send("i have deployed this!")
+    res.send("i have deployed this new index.js!")
 })
 
 
